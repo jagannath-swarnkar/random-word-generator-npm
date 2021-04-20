@@ -39,6 +39,7 @@ export default App;
 
 // Random Word: LoyalInjectionsIntendMore
 ```
+### Stackblitz [Demo](https://stackblitz.com/edit/random-word-generator-npm?file=index.tsx)
 
 ---
 ### Other methods
