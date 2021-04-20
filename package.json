@@ -1,6 +1,6 @@
 {
   "name": "random-word-generator-npm",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "random room name generator",
   "main": "index.js",
   "repository": {
